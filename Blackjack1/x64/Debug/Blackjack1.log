@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\! Chestii importante\Proiecte Jocuri\Blackjack1\Blackjack1\Source.cpp(224,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\! Chestii importante\Proiecte Jocuri\Blackjack1\Blackjack1\Source.cpp(225,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\! Chestii importante\Proiecte Jocuri\Blackjack1\Blackjack1\Source.cpp(731,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\! Chestii importante\Proiecte Jocuri\Blackjack1\Blackjack1\Source.cpp(992,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Blackjack1.vcxproj -> D:\! Chestii importante\Proiecte Jocuri\Blackjack1\x64\Debug\Blackjack1.exe
